@@ -73,12 +73,6 @@
 @@||s5.symcb.com^$important
 #Microsoft Office
 @@||officeclient.microsoft.com^$important
-# Sonarr TV Soft
-@@||apt.sonarr.tv^$important
-@@||download.sonarr.tv^$important
-@@||forums.sonarr.tv^$important
-@@||services.sonarr.tv^$important
-@@||skyhook.sonarr.tv^$important
 #Captive portals
 @@||connectivitycheck.android.com^$important
 @@||android.clients.google.com^$important
@@ -90,3 +84,21 @@
 @@||gsp1.apple.com^$important
 @@||www.apple.com^$important
 @@||www.appleiphonecell.com^$important
+# Wikipedia
+@@||wikipedia.org^$important
+# Lets Encrypt
+@@||letsencrypt.org^$important
+# XKCD
+@@||imgs.xkcd.com^$important
+# Aliexpress.com
+@@||login.aliexpress.com^$important
+# Sonarr TV Soft
+@@||apt.sonarr.tv^$important
+@@||download.sonarr.tv^$important
+@@||forums.sonarr.tv^$important
+@@||services.sonarr.tv^$important
+@@||skyhook.sonarr.tv^$important
+# Themoviedb.com
+@@||themoviedb.com^$important
+# Thetvdb.com
+@@||thetvdb.com^$important

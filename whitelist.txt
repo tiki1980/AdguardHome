@@ -5,6 +5,7 @@
 @@||hardware.info^$important
 @@||trakt.tv^$important
 @@||belastingdienst.nl^$important
+@@||solaxcloud.com^$important
 # Google
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important

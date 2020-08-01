@@ -7,16 +7,38 @@
 @@||belastingdienst.nl^$important
 @@||solaxcloud.com^$important
 # Google
-@@||clients4.google.com^$important 
-@@||clients2.google.com^$important
+@@||0.client-channel.google.com^$important
+@@||2.android.pool.ntp.org^$important
 @@||android.clients.google.com^$important
-@@||reminders-pa.googleapis.com^$important
-@@||firestore.googleapis.com^$important
-@@||googleapis.l.google.com^$important
+@@||appsbackup-pa.clients6.google.com^$important
+@@||appsbackup-pa.googleapis.com^$important
+@@||clients1.google.com^$important
+@@||clients2.google.com^$important
+@@||clients3.google.com^$important
+@@||clients4.google.com^$important
+@@||clients5.google.com^$important
+@@||clients6.google.com^$important
+@@||cse.google.com^$important
+@@||fonts.gstatic.com^$important
+@@||www.googleapis.com^$important
+@@||googleapis.com^$important
+@@||gstatic.com^$important
+@@||instantmessaging-pa.googleapis.com^$important
+@@||manifest.googlevideo.com^$important
+@@||redirector.googlevideo.com^$important
+@@||video-stats.l.google.com^$important
+@@||geo3.ggpht.com^$important
+@@||yt3.ggpht.com^$important
 @@||dl.google.com^$important
 # Youtube
-@@||s.youtube.com^$important 
-@@||video-stats.l.google.com^$important
+@@||s.youtube.com^$important
+@@||s2.youtube.com^$important
+@@||www.youtube-nocookie.com^$important
+@@||youtu.be^$important
+@@||youtube-nocookie.com^$important
+@@||i.ytimg.com^$important
+@@||i1.ytimg.com^$important
+@@||s.ytimg.com^$important
 #Dropbox
 @@||ns1.dropbox.com^$important
 @@||ns2.dropbox.com^$important
@@ -27,7 +49,7 @@
 #Apple
 @@||appleid.apple.com^$important
 #Microsoft
-@@||outlook.office365.com^$important 
+@@||outlook.office365.com^$important
 @@||products.office.com^$important
 @@||c.s-microsoft.com^$important
 @@||i.s-microsoft.com^$important
@@ -37,9 +59,6 @@
 @@||dl.delivery.mp.microsoft.com^$important
 @@||geo-prod.do.dsp.mp.microsoft.com^$important
 @@||displaycatalog.mp.microsoft.com^$important
-#Windows defender
-@@||wdcpalt.microsoft.com^$important
-@@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
 #Skype
 @@||s.gateway.messenger.live.com^$important
 @@||client-s.gateway.messenger.live.com^$important
@@ -49,9 +68,9 @@
 @@||m.hotmail.com^$important
 @@||sa.symcb.com^$important
 @@||s1.symcb.com^$important
-@@||s2.symcb.com^$important
+@@||s2.symcb.com^$important 
 @@||s3.symcb.com^$important
-@@||s4.symcb.com^$important
+@@||s4.symcb.com^$important 
 @@||s5.symcb.com^$important
 #Microsoft Office
 @@||officeclient.microsoft.com^$important

@@ -6,6 +6,7 @@
 @@||trakt.tv^$important
 @@||belastingdienst.nl^$important
 @@||solaxcloud.com^$important
+@@||netflix.com^$important
 # Google
 @@||clients4.google.com^$important 
 @@||clients2.google.com^$important

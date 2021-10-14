@@ -2,6 +2,8 @@
 @@||ad.nl^$important
 @@||tweakers.nl^$important
 @@||tweakers.net^$important
+@@||rabobank.nl^$important
+@@||rabo.nl^$important
 @@||hardware.info^$important
 @@||trakt.tv^$important
 @@||belastingdienst.nl^$important
